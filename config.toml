@@ -1,0 +1,46 @@
+baseURL = "https://markgingrass.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Cupper"
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-135621341-1"
+disqusShortname = "gingrass"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "A place to reflect on life, politics, technology and random thoughts."
+  homeMetaContent = ""
+  footer = "Mark Gingrass"
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "someUser"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5

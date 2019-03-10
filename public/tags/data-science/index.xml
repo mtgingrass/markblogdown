@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Cupper</title>
+    <link>/tags/data-science/</link>
+    <description>Recent content in Data Science on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Job Roles - What do I actually do?</title>
+      <link>/2019-01-17-job-roles-what-do-i-actually-do/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019-01-17-job-roles-what-do-i-actually-do/</guid>
+      <description>My name is Mark and I am an Operations Research Analyst!
+This article is an overview of the roles an ORA is may perform within this my organization.
+Operations Researcher  What do you do for work?
+ I will explain my daily role as an Operations Research Analyst working for the FDA in the Center for Tobacco Products Office of Science in the following sections of this article.</description>
+    </item>
+    
+    <item>
+      <title>GASP</title>
+      <link>/2019-01-05-gasp/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019-01-05-gasp/</guid>
+      <description>GASP Devgin Check out devgin.com for more
+ Event   Government Advances in Statistical Programming 2018
+Government Advances in Statistical Programming (GASP!) Workshop is a workshop focused on statistical programming for government applications held at the Bureau of Labor Statistics in Washington DC on October 24 to 25, 2018. This event was put on by Washington Statistical Society (WSS)
+Themes included R, data science applications, statistics, open source software and more.</description>
+    </item>
+    
+  </channel>
+</rss>

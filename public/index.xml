@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Gingrass on Cupper</title>
+    <link>/</link>
+    <description>Recent content in Mark Gingrass on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detailed Trip to Costa Rica</title>
+      <link>/2019-02-18-detailed-trip-to-costa-rica/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019-02-18-detailed-trip-to-costa-rica/</guid>
+      <description>Pre-plan Where to go and why? I chose to go to Costa Rica for a few reasons:
+ It&amp;rsquo;s winter in February in Washington DC and I wanted to go some place warm. I found a good deal on plane tickets. I heard great things about the country. I want to learn Spanish. It offers both scenery/events as well as partying.  Ticket Details I purchased round trip tickets to Costa Rica from an app called Skyscanner.</description>
+    </item>
+    
+    <item>
+      <title>Job Roles - What do I actually do?</title>
+      <link>/2019-01-17-job-roles-what-do-i-actually-do/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019-01-17-job-roles-what-do-i-actually-do/</guid>
+      <description>My name is Mark and I am an Operations Research Analyst!
+This article is an overview of the roles an ORA is may perform within this my organization.
+Operations Researcher  What do you do for work?
+ I will explain my daily role as an Operations Research Analyst working for the FDA in the Center for Tobacco Products Office of Science in the following sections of this article.</description>
+    </item>
+    
+    <item>
+      <title>GASP</title>
+      <link>/2019-01-05-gasp/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019-01-05-gasp/</guid>
+      <description>GASP Devgin Check out devgin.com for more
+ Event   Government Advances in Statistical Programming 2018
+Government Advances in Statistical Programming (GASP!) Workshop is a workshop focused on statistical programming for government applications held at the Bureau of Labor Statistics in Washington DC on October 24 to 25, 2018. This event was put on by Washington Statistical Society (WSS)
+Themes included R, data science applications, statistics, open source software and more.</description>
+    </item>
+    
+    <item>
+      <title>Tools of the Job</title>
+      <link>/2018-12-16-tools-of-the-job/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018-12-16-tools-of-the-job/</guid>
+      <description>Breaking into the tech world takes time! Forget about coding in C++ or Python or learning Ruby on Rails. Just figuring out which tools or Integrated Environments (IDE), or even which Operating System (OS) to use can be overwhelming.
+In this post, I am going to break down some of the tools I am currently using and why. I&amp;rsquo;m also going to try and break down my thought process of how I even found out which tools to use.</description>
+    </item>
+    
+    <item>
+      <title>Unique Skills</title>
+      <link>/2018-12-16-unique-skills/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018-12-16-unique-skills/</guid>
+      <description>The question is, what are my transferable skills? What do I bring to the table? This is what this blog post is going to be all about, how to bring a unique set of skills to a field you have never been part of, and to use that for your advantage. Can I even do this?
+I will start with how I brought unique tools to a field I never thought I would be in.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
