@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Cupper</title>
-    <link>/tags/r/</link>
+    <link>https://markgingrass.com/tags/r/</link>
     <description>Recent content in R on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markgingrass.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GASP</title>
-      <link>/2019-01-05-gasp/</link>
+      <link>https://markgingrass.com/2019-01-05-gasp/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019-01-05-gasp/</guid>
+      <guid>https://markgingrass.com/2019-01-05-gasp/</guid>
       <description>GASP Devgin Check out devgin.com for more
  Event   Government Advances in Statistical Programming 2018
 Government Advances in Statistical Programming (GASP!) Workshop is a workshop focused on statistical programming for government applications held at the Bureau of Labor Statistics in Washington DC on October 24 to 25, 2018. This event was put on by Washington Statistical Society (WSS)

@@ -2,192 +2,282 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cupper</title>
-    <link>/tags/</link>
+    <link>https://markgingrass.com/tags/</link>
     <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markgingrass.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atom</title>
-      <link>/tags/atom/</link>
+      <link>https://markgingrass.com/tags/atom/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/atom/</guid>
+      <guid>https://markgingrass.com/tags/atom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Canopy</title>
-      <link>/tags/canopy/</link>
+      <link>https://markgingrass.com/tags/canopy/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/canopy/</guid>
+      <guid>https://markgingrass.com/tags/canopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile</title>
+      <link>https://markgingrass.com/tags/compile/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/compile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Costa Rica</title>
-      <link>/tags/costa-rica/</link>
+      <link>https://markgingrass.com/tags/costa-rica/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/costa-rica/</guid>
+      <guid>https://markgingrass.com/tags/costa-rica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>/tags/data-science/</link>
+      <link>https://markgingrass.com/tags/data-science/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-science/</guid>
+      <guid>https://markgingrass.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devc&#43;&#43;</title>
+      <link>https://markgingrass.com/tags/devc&#43;&#43;/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/devc&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devcpp</title>
+      <link>https://markgingrass.com/tags/devcpp/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/devcpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Program</title>
+      <link>https://markgingrass.com/tags/first-program/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/first-program/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flying</title>
-      <link>/tags/flying/</link>
+      <link>https://markgingrass.com/tags/flying/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/flying/</guid>
+      <guid>https://markgingrass.com/tags/flying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gasp</title>
-      <link>/tags/gasp/</link>
+      <link>https://markgingrass.com/tags/gasp/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gasp/</guid>
+      <guid>https://markgingrass.com/tags/gasp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://markgingrass.com/tags/github/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://markgingrass.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Government</title>
-      <link>/tags/government/</link>
+      <link>https://markgingrass.com/tags/government/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/government/</guid>
+      <guid>https://markgingrass.com/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://markgingrass.com/tags/hello-world/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jaco</title>
-      <link>/tags/jaco/</link>
+      <link>https://markgingrass.com/tags/jaco/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/jaco/</guid>
+      <guid>https://markgingrass.com/tags/jaco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jaco Beach</title>
-      <link>/tags/jaco-beach/</link>
+      <link>https://markgingrass.com/tags/jaco-beach/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/jaco-beach/</guid>
+      <guid>https://markgingrass.com/tags/jaco-beach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La Fortuna</title>
-      <link>/tags/la-fortuna/</link>
+      <link>https://markgingrass.com/tags/la-fortuna/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/la-fortuna/</guid>
+      <guid>https://markgingrass.com/tags/la-fortuna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manuel Antonio</title>
-      <link>/tags/manuel-antonio/</link>
+      <link>https://markgingrass.com/tags/manuel-antonio/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/manuel-antonio/</guid>
+      <guid>https://markgingrass.com/tags/manuel-antonio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://markgingrass.com/tags/markdown/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://markgingrass.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monteverde</title>
-      <link>/tags/monteverde/</link>
+      <link>https://markgingrass.com/tags/monteverde/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/monteverde/</guid>
+      <guid>https://markgingrass.com/tags/monteverde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Compiler</title>
+      <link>https://markgingrass.com/tags/online-compiler/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/online-compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://markgingrass.com/tags/program/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/program/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>/tags/programming/</link>
+      <link>https://markgingrass.com/tags/programming/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programming/</guid>
+      <guid>https://markgingrass.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://markgingrass.com/tags/r/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://markgingrass.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>References</title>
-      <link>/tags/references/</link>
+      <link>https://markgingrass.com/tags/references/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/references/</guid>
+      <guid>https://markgingrass.com/tags/references/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run</title>
+      <link>https://markgingrass.com/tags/run/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/run/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>/tags/tools/</link>
+      <link>https://markgingrass.com/tags/tools/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tools/</guid>
+      <guid>https://markgingrass.com/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traveling</title>
-      <link>/tags/traveling/</link>
+      <link>https://markgingrass.com/tags/traveling/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/traveling/</guid>
+      <guid>https://markgingrass.com/tags/traveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://markgingrass.com/tags/tutorial/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio</title>
+      <link>https://markgingrass.com/tags/visual-studio/</link>
+      <pubDate>Sun, 20 Aug 2017 20:27:05 +0000</pubDate>
+      
+      <guid>https://markgingrass.com/tags/visual-studio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zip Lines</title>
-      <link>/tags/zip-lines/</link>
+      <link>https://markgingrass.com/tags/zip-lines/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/zip-lines/</guid>
+      <guid>https://markgingrass.com/tags/zip-lines/</guid>
       <description></description>
     </item>
     
