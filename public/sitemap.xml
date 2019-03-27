@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://markgingrass.com/2019-02-18-detailed-trip-to-costa-rica/</loc>
+=======
+    <loc>/2019-03-10-test/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-02-18-detailed-trip-to-costa-rica/</loc>
+>>>>>>> a699ff5ee80c80a256929909a3908d1121aa681f
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,8 +58,13 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://markgingrass.com/post/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+=======
+    <loc>/post/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+>>>>>>> a699ff5ee80c80a256929909a3908d1121aa681f
   </url>
   
   <url>
